@@ -5,7 +5,7 @@ Use Mixed_Signals_Stimulus.ipynb file to create mixed signal stimulus.
 
 To create audio files, install Google API Text to Speech package. To download package, enter the following code in terminal or Python console:
 
-$ pip install gTTS
+	$ pip install gTTS
 
 From the gtts package, import gTTS:
 
