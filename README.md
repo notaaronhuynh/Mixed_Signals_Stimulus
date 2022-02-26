@@ -32,4 +32,4 @@ Save this stimulus speech object as an MP3 or MP4 file using the save(filename) 
 
 	stimulus.save("mixed_signals_numbers_%s.mp4" % numbers[i])
 
-Where %s modulates a name given by the indexed token from a given list. 
+Where %s modulates a string given by the indexed token from a list. 
