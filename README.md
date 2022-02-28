@@ -1,4 +1,4 @@
-# Mixed_Signal_Stimulus
+# Mixed_Signals_Stimulus
 Code that uses Google's Text to Speech API to convert a list of string tokens into MP3 and MP4 audio files for cognitive training experiment with Alzheimer's and Dementia Patients. 
 
 Use Mixed_Signals_Stimulus.ipynb file to create mixed signal stimulus.
